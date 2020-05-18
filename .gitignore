@@ -1,0 +1,7 @@
+*.vscode
+obj
+bin
+*.cred
+*.Searchterm
+SearchTweets.txt
+FilterTweets.txt
